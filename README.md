@@ -1,4 +1,4 @@
-# mdenergy_src
+# mdenergy_updated
 ## Steps for installation
 ### Step 1 : Extract the mdenergy folder present in my repo.
 ![image](https://github.com/user-attachments/assets/d3f3e702-2d73-4d9f-986a-1d64942de680)  
