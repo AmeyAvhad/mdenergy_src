@@ -1,6 +1,6 @@
 # mdenergy_updated
 ## Steps for installation
-### Step 1 : Extract the mdenergy folder present in my repo.
+### Step 1 : Extract the mdenergy.tar.xz file in your desired folder present in my repo.
 ![image](https://github.com/user-attachments/assets/d3f3e702-2d73-4d9f-986a-1d64942de680)  
 ### Step 2: Open terminal in src folder and enter the command “make linux”.
 ![image](https://github.com/user-attachments/assets/a8d23faf-4899-4d1d-b2cb-276e3ede83bc)
